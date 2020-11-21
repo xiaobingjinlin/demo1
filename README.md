@@ -8,6 +8,6 @@
 root
   ├─application
   ├─business
-  ├─pgsql.dao
+  ├─dao
   └─common
 ```
